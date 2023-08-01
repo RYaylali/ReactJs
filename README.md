@@ -7,4 +7,4 @@
 # apiimage
 
 --> React projelerinde hazır api kullanarak component yapıları ile input'a girilen değeri arayan bir uygulamadır
-<img src="C:\Users\Lenovo\desktop\react\ProjeResimleri\apiimage.PNG"/>
+![image](https://github.com/RYaylali/ReactJs/blob/main/ProjeResimleri/apiimage.PNG)
