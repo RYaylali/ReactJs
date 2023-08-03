@@ -36,12 +36,26 @@
 
 -->Form, UseState ve component yapıları kullanarak örnek bir jira uygulamasıdır. Oluşturulan tasklar listelenmektedir ve bu listedekiler güncelleme ve silme işlemleri uygulana bilir.
 
-- Kullanılan yapılar axios api olarak json server ile apiye istek atılmış veriler kendi oluşturduğumuz db.json dosyasında json veri olarak tutulmuştur. Use effect kullanılarak kayıt olan taskler kendi projemizde tutularak her component açıldığında api ye isterek atılarak db.json dan verileri getirmiştir.
+- Kullanılan yapılar axios, api olarak json server ile apiye istek atılmış veriler kendi oluşturduğumuz db.json dosyasında json veri olarak tutulmuştur. Use effect kullanılarak kayıt olan taskler kendi projemizde tutularak her component açıldığında api ye isterek atılarak db.json dan verileri getirmiştir.
 - json serverde apıyi kaldırmak için : npx json-server --watch api/db.json --port 3004 bunu bi terminalde diğer terminalde ise npm start ile projeyi ayağa kaldır.
 - UseContext yapısı kullanılarak context klasörü altında oluşturulan js dosyasında componentlerde kullanılan büütün fonksiyonlar toplandı. Bu yapıyı bütün projede kullanabilmek için index.js de app.js dosyasını çevreledik ve task.js, app.js kapsar hale geldi böylece methodlara projenin bütün her yerinden ulaşıldı. Bu sayede veri taşımak için daha az props kullanımı sağlandı
 
 <br/>
 
 ![image](https://github.com/RYaylali/ReactJs/blob/main/ProjeResimleri/jiraapp.PNG)
+
+<br/>
+
+# kurslarim
+
+<br/>
+
+-->Form, UseState ve component yapıları kullanarak örnek bir jira uygulamasıdır. Oluşturulan tasklar listelenmektedir ve bu listedekiler güncelleme ve silme işlemleri uygulana bilir.
+
+- Kullanılan yapılar axios, api olarak json server ile apiye istek atılmış veriler kendi oluşturduğumuz db.json dosyasında json veri olarak tutulmuştur. Use effect kullanılarak kayıt olan taskler kendi projemizde tutularak her component açıldığında api ye isterek atılarak db.json dan verileri getirmiştir.
+
+<br/>
+
+![image](https://github.com/RYaylali/ReactJs/blob/main/ProjeResimleri/kurslarim.PNG)
 
 <br/>
