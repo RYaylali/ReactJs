@@ -50,7 +50,7 @@
 
 <br/>
 
--->Form, UseState ve component yapıları kullanarak örnek bir jira uygulamasıdır. Oluşturulan tasklar listelenmektedir ve bu listedekiler güncelleme ve silme işlemleri uygulana bilir.
+--> UseState ve component yapıları kullanarak örnek bir kurs uygulamasıdır. db.json dosyasındaki kurslar arasında rastgele geçiş yapılabilir ve yö belirten buttonlar ilede geçiiş yapılabilir
 
 - Kullanılan yapılar axios, api olarak json server ile apiye istek atılmış veriler kendi oluşturduğumuz db.json dosyasında json veri olarak tutulmuştur. Use effect kullanılarak kayıt olan taskler kendi projemizde tutularak her component açıldığında api ye isterek atılarak db.json dan verileri getirmiştir.
 
