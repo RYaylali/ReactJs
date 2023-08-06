@@ -50,7 +50,7 @@
 
 <br/>
 
---> UseState ve component yapıları kullanarak örnek bir kurs uygulamasıdır. db.json dosyasındaki kurslar arasında rastgele geçiş yapılabilir ve yö belirten buttonlar ilede geçiiş yapılabilir
+--> UseState ve component yapıları kullanarak örnek bir kurs uygulamasıdır. db.json dosyasındaki kurslar arasında rastgele geçiş yapılabilir ve yön belirten buttonlar ilede geçiiş yapılabilir
 
 - Kullanılan yapılar axios, api olarak json server ile apiye istek atılmış veriler kendi oluşturduğumuz db.json dosyasında json veri olarak tutulmuştur. Use effect kullanılarak kayıt olan taskler kendi projemizde tutularak her component açıldığında api ye isterek atılarak db.json dan verileri getirmiştir.
 
