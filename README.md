@@ -81,3 +81,23 @@
 <br/>
 
 ![image](https://github.com/RYaylali/ReactJs/blob/main/ProjeResimleri/hamburger4.PNG)
+
+<br/>
+
+# formproject
+
+<br/>
+
+--> Formik Yup ve dom kütüphaneleri kullanılmıştır.
+
+<br/>
+
+- Formik kitiphanesi kullanılarak Form yapıları kullanıldı ve yub kütüphanesi ile birlikde validationlar oluşturuldu.
+
+<br/>
+
+![image](https://github.com/RYaylali/ReactJs/blob/main/ProjeResimleri/yub.PNG)
+
+<br/>
+
+![image](https://github.com/RYaylali/ReactJs/blob/main/ProjeResimleri/yup1.PNG)
